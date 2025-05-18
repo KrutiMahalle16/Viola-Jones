@@ -21,13 +21,11 @@ OpenCV (cv2)
 
 ### 🔄 Method Overview
 Load the Haar cascade XML classifier from OpenCV.
-
 Read the input image or video frame-by-frame.
-
 Convert frames to grayscale for detection.
-
 Apply detectMultiScale() to find faces.
-
 Draw bounding boxes around detected faces.
+
+
 
 
