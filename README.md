@@ -25,6 +25,12 @@ Read the input image or video frame-by-frame.
 Convert frames to grayscale for detection.
 Apply detectMultiScale() to find faces.
 Draw bounding boxes around detected faces.
+📷 Sample Output
+The output image/video will display rectangles around detected faces using the trained Haar cascade model.
+
+✅ Conclusion
+The Viola-Jones algorithm is an efficient and classic method for face detection in real-time systems. This project demonstrates its usage with OpenCV, offering a practical introduction to face detection in computer vision.
+
 
 
 
