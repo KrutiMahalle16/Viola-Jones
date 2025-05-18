@@ -14,3 +14,8 @@ AdaBoost for feature selection
 Cascade Classifier for efficient multi-stage detection
 
 It is primarily used for face detection in real-time applications.
+
+🛠️ Technologies Used
+Python 3.x
+
+OpenCV (cv2)
